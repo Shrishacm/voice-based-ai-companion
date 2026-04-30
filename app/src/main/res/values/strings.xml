@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mithra</string>
+    <string name="wake_service_name">Mithra Wake Word Service</string>
+    <string name="channel_name">Mithra Background Service</string>
+    <string name="channel_description">Keeps Mithra listening for wake word</string>
+    <string name="status_standby">Standby — say "Mithra"</string>
+    <string name="status_listening">Listening...</string>
+    <string name="status_processing">Processing...</string>
+    <string name="status_speaking">Speaking...</string>
+</resources>
